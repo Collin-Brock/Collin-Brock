@@ -11,4 +11,4 @@ This project used raw CAN data and parsed it into an Excel document. Then, using
 This project is for the configuration and setup of my Voron 2.4 created from the open source project by Voron Design. This code includes custom setup information and custom macros.
 
 -SolidWorks Macros
-*TBA
+This project is a selection of some of the SolidWorks macros I have created for speeding up drawings and models
