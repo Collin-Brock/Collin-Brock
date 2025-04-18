@@ -2,11 +2,11 @@ Material:\
  [Alro](https://www.alro.com/)\
  [Metal By The Foot](https://metalbythefoot.com/)\
  [Shapiro Metal Supply](https://www.shapirosupply.com/)\
-\ 
+\
 Hardware:\
   [McMaster-Carr](https://www.mcmaster.com/)\
   [Grainger](https://www.grainger.com/)\
-  \
+ \
 Prototyping Services:\
   [Fast Radius](https://fastradius.com/pro/)\
   [CNC Madness](https://cncmadness.com/)\
