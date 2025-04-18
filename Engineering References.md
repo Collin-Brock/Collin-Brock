@@ -36,7 +36,7 @@
  [Cad Booster](https://cadbooster.com/)\
  [Code Stack](https://www.codestack.net/solidworks-api/)\
  [The CAD Coder](https://thecadcoder.com/)\
- [SolidWorks Help](https://help.solidworks.com/2024/English/api/sldworksapiprogguide/Welcome.htm?verRedirect=1)\
+ [SolidWorks Help](https://help.solidworks.com/2024/English/api/sldworksapiprogguide/Welcome.htm?verRedirect=1)
 # Chinese Steel Standards
    Q - Qufu Dian (Yield Point)\
      ### - Min Yield Strength Bar or Plate <=16mm\
