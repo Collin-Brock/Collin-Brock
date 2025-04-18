@@ -1,4 +1,4 @@
-Material:
+Material:\
  [Alro](https://www.alro.com/)
  [Metal By The Foot](https://metalbythefoot.com/)
  [Shapiro Metal Supply](https://www.shapirosupply.com/)
