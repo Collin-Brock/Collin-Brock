@@ -1,21 +1,21 @@
 Material:
- Alro - https://www.alro.com/
- Metal By The Foot (KC) - https://metalbythefoot.com/
- Shapiro Metal Supply (STL) - https://www.shapirosupply.com/
+ [Alro](https://www.alro.com/)
+ [Metal By The Foot](https://metalbythefoot.com/)
+ [Shapiro Metal Supply](https://www.shapirosupply.com/)
  
 Hardware:
-  McMaster-Carr - https://www.mcmaster.com/
-  Grainger - https://www.grainger.com/
+  [McMaster-Carr](https://www.mcmaster.com/)
+  [Grainger](https://www.grainger.com/)
   
 Prototyping Services:
-  Fast Radius - https://fastradius.com/pro/
-  CNC Madness - https://cncmadness.com/
-  Xometry - https://www.xometry.com/
-  ShapeWays - https://www.shapeways.com/
-  JLC PCB - https://jlc3dp.com/
-  Rapid Direct - https://www.rapiddirect.com/
-  ProtoLabs - https://www.protolabs.com/
-  SendCutSend - https://sendcutsend.com/
+  [Fast Radius](https://fastradius.com/pro/)
+  [CNC Madness](https://cncmadness.com/)
+  [Xometry](https://www.xometry.com/)
+  [ShapeWays](https://www.shapeways.com/)
+  [JLC PCB](https://jlc3dp.com/)
+  [Rapid Direct](https://www.rapiddirect.com/)
+  [ProtoLabs](https://www.protolabs.com/)
+  [SendCutSend](https://sendcutsend.com/)
     File is in a format that we accept (2D: .dxf, .dwg, .ai, .eps; 3D: .step or .stp)
     All holes and cutouts are at least 50% material thickness for laser cut parts
     All holes and cutouts are no less than 0.070” for most waterjet cut parts
@@ -30,7 +30,7 @@ Prototyping Services:
     Mild Steel .030" - .5" Laser   
 
 Materials:
-        Matweb - https://matweb.com/
+        [Matweb](https://matweb.com/)
 
 SolidWorks/API:
   Macros - https://github.com/BlueByteSystemsInc/SOLIDWORKSVBAMacros
