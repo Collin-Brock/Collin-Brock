@@ -1,3 +1,14 @@
+#Optical Design Resources
+  [2D Ray Optics Simulation](https://phydemo.app/ray-optics/)\ <!-- GitHub: https://github.com/ricktu288/ray-optics -->
+  [FMVSS 108](https://www.federalregister.gov/documents/2011/04/27/2011-10031/federal-motor-vehicle-safety-standards-no-108-lamp-reflective-devices-and-associated-equipment)\
+  [FMVSS 108 - NHTSA Additional Tools](https://www.nhtsa.gov/sites/nhtsa.gov/files/tp-108-13.pdf)
+#Electrical Design Resources
+  [Circuit Simulation](https://www.falstad.com/circuit/)\ <!-- GitHub: https://github.com/pfalstad/circuitjs1  -->
+  [Electronic Component Distributor Search](https://www.trustedparts.com/en)
+#CAN Bus
+  [Truck Hacking PLC/J1939](https://github.com/TruckHacking)\
+  [Arduino J1939 Example](https://jcom1939.com/sae-j1939-embedded-software/ard1939-sae-j1939-protocol-stack-code-for-arduino-and-esp32/)\
+  [CSS Electronics CAN Loggers and Decoder Software ASAMMDF](https://www.csselectronics.com/)
 # Material Vendors
 [Alro](https://www.alro.com/)\
 [Metal By The Foot](https://metalbythefoot.com/)\
@@ -14,31 +25,6 @@
   [Rapid Direct](https://www.rapiddirect.com/)\
   [ProtoLabs](https://www.protolabs.com/)\
   [SendCutSend](https://sendcutsend.com/)
-  
-  File is in a format that we accept (2D: .dxf, .dwg, .ai, .eps; 3D: .step or .stp)
-
-  All holes and cutouts are at least 50% material thickness for laser cut parts
-
-  All holes and cutouts are no less than 0.070” for most waterjet cut parts
-
-  All holes and cutouts are no less than 0.125” for all CNC routed parts
-
-  File is built at a 1:1 scale, preferably in inch or mm units
-
-  All objects are on the same layer
-
-  All stray points, duplicate lines, empty objects and text areas have been removed
-
-  No shapes have open contours
-
-  All shapes have been united, combined or merged
-
-  All text has been converted to outlines or paths
-
-  Cut-out text (reversed text) has bridges or has been stencilized
-
-  Mild Steel .030" - .5" Laser
-
 # Materials
  [Matweb](https://matweb.com/)
 # SolidWorks/API
