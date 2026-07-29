@@ -18,11 +18,12 @@ A Python-based automation tool that parses raw CAN bus data into Excel, and comp
 
 **[ODriveSystem](https://github.com/Collin-Brock/ODriveSystem)**
 Control and calibration software for an automated linear actuating system, utilizing an O-Drive Controller for precise sensor calibration.
-
+---
 ## Certificates and Resources
-**[Certificates](https://github.com/Collin-Brock/Collin-Brock/tree/main/Certificates)**
+
+* **[Certificates](https://github.com/Collin-Brock/Collin-Brock/tree/main/Certificates)**
 Here is a collection of my certificates.
 
-**[Engineering References](https://github.com/Collin-Brock/Collin-Brock/blob/main/Engineering%20References.md)**
+* **[Engineering References](https://github.com/Collin-Brock/Collin-Brock/blob/main/Engineering%20References.md)**
 
 **Let's Connect:** Feel free to explore my repositories or reach out via [LinkedIn](https://www.linkedin.com/in/collin-brockman/) or email to discuss mechanical design, automated manufacturing, or robotics!
