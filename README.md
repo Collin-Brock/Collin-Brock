@@ -1,4 +1,4 @@
-#Hello, I'm Collin Brockman
+# Hello, I'm Collin Brockman
 **Mechanical Engineer | Hardware & Software Integration | Robotics Enthusiast**
 
 Welcome to my GitHub! I am a Mechanical Engineer with a passion for mechatronics, bringing mechanical design, software, and hardware together. Below is a curated selection of my technical projects. 
@@ -22,6 +22,7 @@ Control and calibration software for an automated linear actuating system, utili
 ## Certificates and Resources
 **[Certificates](https://github.com/Collin-Brock/Collin-Brock/tree/main/Certificates)**
 Here is a collection of my certificates.
+
 **[Engineering References](https://github.com/Collin-Brock/Collin-Brock/blob/main/Engineering%20References.md)**
 
 **Let's Connect:** Feel free to explore my repositories or reach out via [LinkedIn](https://www.linkedin.com/in/collin-brockman/) or email to discuss mechanical design, automated manufacturing, or robotics!
